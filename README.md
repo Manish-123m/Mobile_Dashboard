@@ -1,5 +1,7 @@
 Mobile Dashboard with Power BI and Excel
+
 Overview
+
 This repository contains a mobile sales dashboard built using Excel and Power BI. The dashboard visualizes revenue data for mobile brands by country and month. It includes interactive charts, graphs, and summary insights, making it easier to analyze and understand mobile sales performance.
 
 Features
